@@ -35,7 +35,7 @@
 .show > .navbar .navbar-nav > a.btn.dropdown-toggle,
 .show > .navbar .navbar-nav > a.btn.dropdown-toggle:focus,
 .show > .navbar .navbar-nav > a.btn.dropdown-toggle:hover {
-  background-color: rgb(19, 106, 150)!important;
+  background-color: rgb(19, 106, 150) !important;
   color: #ffffff;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -237,7 +237,7 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: rgb(19, 106, 150)!important;
+  background-color: rgb(19, 106, 150) !important;
   color: #ffffff !important;
   -webkit-box-shadow: none;
   box-shadow: none;
